@@ -1,6 +1,6 @@
 # Данные
 
-## [`wineQualityReds.csv`](wineQualityReds.csv)
+## [Wine Quality (reds)](wineQualityReds.csv)
 Input variables (based on physicochemical tests):  
 * `fixed acidity`
 * `volatile acidity`
