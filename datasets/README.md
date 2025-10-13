@@ -1,4 +1,4 @@
-# Данные
+# Datasets
 
 ## [Wine Quality (reds)](wineQualityReds.csv)
 Input variables (based on physicochemical tests):  
